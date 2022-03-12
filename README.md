@@ -19,9 +19,9 @@ It is important that you follow the instructions below carefully for things to w
 Read the instructions in this notebook carefully, especially where asked to name variables with a specific name. Wherever you are required to produce code you should use code cells, otherwise you should use markdown cells to report results and explain answers. In most cases we indicate the nature of answer we are expecting (code/text), and also provide the required code/markdown cell.
 
 - We will use the IAML Learn page for any announcements, updates, and FAQs on this assignment. Please visit the page frequently to find the latest information.
-- Data files that you will be using are located in the ./datasets directory that is included in the [git repository](https://github.com/uoe-iaml/DL-S2-2022-CW2) for this coursework.
-- There is a helper file 'iaml02cw2_helpers.py' which you should upload to your environment.
-- Some of the topics in this coursework are covered in weeks 7 and 8 of the course. Focus first on questions on topics that you have covered already, and come back to the other questions as the lectures progress.
+- Data files that you will be using are included in the [git repository](https://github.com/uoe-iaml/DL-S2-2022-CW2) for this coursework.
+- There is a helper file 'iaml22cw2_helpers.py' which you should upload to your environment.
+- Some of the topics in this coursework are covered in week 8 of the course. Focus first on questions on topics that you have covered already, and come back to the other questions as the lectures progress.
 - Keep your answers brief and concise.
 - Make sure to show all your code/working.
 - Write readable code. While we do not expect you to follow PEP8 to the letter, the code should be adequately understandable, with plots/visualisations correctly labelled. Do use inline comments when doing something non-standard. When asked to present numerical values, make sure to represent real numbers in the appropriate precision to exemplify your answer. 
