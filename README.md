@@ -35,7 +35,7 @@ Please remember the University requirement regarding all assessed work for credi
 http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct
 Specifically, this assignment should be your own individual work. We will employ tools for detecting misconduct.
 
-Moreover, please note that Piazza is NOT a forum for discussing the solutions of the assignment. You may, in exceptional circumstances, ask private questions.
+Moreover, please note that Piazza is NOT a forum for discussing the solutions of the assignment. You may ask private questions. You can use the office hours to ask questions.
 
 ### SUBMISSION Mechanics
 This assignment will account for 30% of your final mark. We ask you to submit answers to all questions.
